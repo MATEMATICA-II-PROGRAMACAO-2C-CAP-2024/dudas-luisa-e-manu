@@ -23,4 +23,5 @@
 .escola{
     display: flex;
     color:white;
+    background-image: radial-gradient(circle at 50% -20.71%, #ffff9e 0, #ffff94 8.33%, #ffff8c 16.67%, #ffff85 25%, #ecff7f 33.33%, #cfff7c 41.67%, #afff7a 50%, #8afa7c 58.33%, #5cf682 66.67%, #00f28c 75%, #00ee98 83.33%, #00eaa8 91.67%, #00e7b9 100%);
 }
